@@ -4,6 +4,9 @@
         "LedgerPay",
         "Hermes",
         "Rate-Limiter",
-        "Agora"
+        "Agora",
+        "KoinX-Reconciliation",
+        "NeuralProxy",
+        "Bob-the-Builder"
     ]
 }
